@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kutyák</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<header>
+		<h1>Kutyák</h1>
+		<nav>
+			<ul>
+				<li><a href="#fajtak">Fajták</a></li>
+				<li><a href="#tortenet">Történet</a></li>
+				<li><a href="#hasznossagok">Hasznosságok</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<section id="fajtak">
+			<h2>Kutya fajták</h2>
+			<p>Itt találhatók a legismertebb kutyafajták:</p>
+			<ul>
+				<li>Magyar vizsla</li>
+				<li>Golden retriever</li>
+				<li>Puli</li>
+				<li>Border collie</li>
+				<li>Bernáthegyi</li>
+			</ul>
+		</section>
+		
+		<section id="tortenet">
+			<h2>A kutya története</h2>
+			<p>A kutya az ember legjobb barátja. Együtt élünk velük már évezredek óta.</p>
+			<p>Az egyik legősibb kutya maradványt Egyiptomban találták, ami mintegy 4000 éves. A kutyákat az ókori Görögországban is használták vadászatra, őrzésre és kísérőként.</p>
+			<p>Manapság a kutyák sokféle szerepet töltenek be az életünkben, mint például pásztorkutyaként, terápiás kutyaként, vakvezetőként, vagy egyszerűen csak hűséges társaként.</p>
+		</section>
+		
+		<section id="hasznossagok">
+			<h2>Kutyás hasznosságok</h2>
+			<p>Itt találhatók kutyás hasznosságok és tippek:</p>
+			<ol>
+				<li>Fontos, hogy a kutyák naponta legalább egyszer sétálnak.</li>
+				<li>A kutyák szeretik a játékokat és az interaktív tevékenységeket.</li>
+				<li>A kutyák számára fontos, hogy biztosítva legyen a megfelelő táplálkozás és ivás.</li>
+			</ol>
+		</section>
+	</main>
+	
+	<footer>
+		<p>Készítette: ChatGPT</p>
+	</footer>
+</body>
+</html>
